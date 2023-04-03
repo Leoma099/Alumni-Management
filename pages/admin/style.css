@@ -7,10 +7,10 @@
     --light-gray: #e0e0e0;
     --black: #000000;
 }
-/* body::-webkit-scrollbar
+body::-webkit-scrollbar
 {
     display: none;
-} */
+}
 #header
 {
     background: var(--white);
